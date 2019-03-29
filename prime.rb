@@ -24,5 +24,5 @@ def prime?(integer)
   # iterate over the array and determine if prime
   # account for negative numbers!
   
-  
+  if integer >= 2
     
