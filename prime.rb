@@ -17,13 +17,16 @@
 #   end
 # >>>>>>> e44adcfc5bce1fd1bc404490f0c073f439cebf9e
 
-def prime?(integer)
+def prime?(num)
   # what makes a number prime?
   # will need a conditional statement to test true/false 
   # create a range of numbers, turn into an Array
   # iterate over the array and determine if prime
   # account for negative numbers!
   
-  if integer >= 2
+  if num >= 2
     return true
-  elsif integer  
+  elsif num  
+  end
+  
+end
