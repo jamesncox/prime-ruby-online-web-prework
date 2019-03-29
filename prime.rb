@@ -22,4 +22,7 @@ def prime?(integer)
   # will need a conditional statement to test true/false 
   # create a range of numbers, turn into an Array
   # iterate over the array and determine if prime
+  # account for negative numbers!
+  
+  
     
