@@ -25,4 +25,5 @@ def prime?(integer)
   # account for negative numbers!
   
   if integer >= 2
-    
+    return true
+  else 
